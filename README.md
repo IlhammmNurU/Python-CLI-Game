@@ -12,7 +12,7 @@ $pkg install git
 $pkg install python && pkg install python2
 $git clone https://github.com/IlhammmNurU/Python-CLI-Game.git
 $cd Python-CLI-Game
-$python2 teka_teki.py
+$python2 teka-teki.py
 
 
 
